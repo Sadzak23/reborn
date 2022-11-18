@@ -47,7 +47,7 @@
     "uuid": "^3.3.2",
     "validator": "^11.1.0",
     "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
